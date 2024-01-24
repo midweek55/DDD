@@ -1,0 +1,15 @@
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\bin\Debug\net8.0\Cenit.Admon.Infraestructure.deps.json
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\bin\Debug\net8.0\Cenit.Admon.Infraestructure.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\bin\Debug\net8.0\Cenit.Admon.Infraestructure.pdb
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.AssemblyInfoInputs.cache
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.AssemblyInfo.cs
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\refint\Cenit.Admon.Infraestructure.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.pdb
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\ref\Cenit.Admon.Infraestructure.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\bin\Debug\net8.0\Cenit.Admon.Domain.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\bin\Debug\net8.0\Cenit.Admon.Domain.pdb
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.csproj.AssemblyReference.cache
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Infraestructure\obj\Debug\net8.0\Cenit.Admon.Infraestructure.csproj.CopyComplete

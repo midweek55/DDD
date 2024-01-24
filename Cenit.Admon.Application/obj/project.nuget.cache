@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5cnyewUD8/AX3g8e1GLqDIZacuiDjNNUjc18jHXFGEVRONAGMirvFxTJ+EqzDndAdUHqRYP1PwLMjbco3IqZA==",
+  "success": true,
+  "projectFilePath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/midweek/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/midweek/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/midweek/.nuget/packages/mediatr.extensions.microsoft.dependencyinjectionfixed/5.1.2/mediatr.extensions.microsoft.dependencyinjectionfixed.5.1.2.nupkg.sha512",
+    "/home/midweek/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

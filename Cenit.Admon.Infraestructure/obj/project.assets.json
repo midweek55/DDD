@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Cenit.Admon.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Cenit.Admon.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cenit.Admon.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cenit.Admon.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
+      "msbuildProject": "../Cenit.Admon.Domain/Cenit.Admon.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Cenit.Admon.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/midweek/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
+      "projectName": "Cenit.Admon.Infraestructure",
+      "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
+      "packagesPath": "/home/midweek/.nuget/packages/",
+      "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/midweek/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
+              "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

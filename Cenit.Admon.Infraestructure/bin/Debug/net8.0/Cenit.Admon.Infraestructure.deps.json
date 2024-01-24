@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cenit.Admon.Infraestructure/1.0.0": {
+        "dependencies": {
+          "Cenit.Admon.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Cenit.Admon.Infraestructure.dll": {}
+        }
+      },
+      "Cenit.Admon.Domain/1.0.0": {
+        "runtime": {
+          "Cenit.Admon.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cenit.Admon.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cenit.Admon.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

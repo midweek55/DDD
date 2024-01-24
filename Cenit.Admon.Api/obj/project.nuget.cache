@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "z++fmF2bIJPuA6SM8HzV9k3Gg6vO12hahGijKfCBrPyC6yqgMGW0H+RSM7Tlhya9JrcEOBD/x3usTxZguvzjxQ==",
+  "success": true,
+  "projectFilePath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/midweek/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/midweek/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/midweek/.nuget/packages/mediatr.extensions.microsoft.dependencyinjectionfixed/5.1.2/mediatr.extensions.microsoft.dependencyinjectionfixed.5.1.2.nupkg.sha512",
+    "/home/midweek/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/midweek/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/midweek/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/midweek/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/midweek/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/midweek/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/midweek/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

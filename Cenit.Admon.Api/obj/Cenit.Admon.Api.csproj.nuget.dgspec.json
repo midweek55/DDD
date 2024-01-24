@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj": {}
+  },
+  "projects": {
+    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
+        "projectName": "Cenit.Admon.Api",
+        "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
+        "packagesPath": "/home/midweek/.nuget/packages/",
+        "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/midweek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj": {
+                "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjectionFixed": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj",
+        "projectName": "Cenit.Admon.Application",
+        "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj",
+        "packagesPath": "/home/midweek/.nuget/packages/",
+        "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/midweek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
+                "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj"
+              },
+              "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj": {
+                "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjectionFixed": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
+        "projectName": "Cenit.Admon.Domain",
+        "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
+        "packagesPath": "/home/midweek/.nuget/packages/",
+        "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/midweek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
+        "projectName": "Cenit.Admon.Infraestructure",
+        "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
+        "packagesPath": "/home/midweek/.nuget/packages/",
+        "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/midweek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
+                "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\bin\Debug\net8.0\Cenit.Admon.Domain.deps.json
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\bin\Debug\net8.0\Cenit.Admon.Domain.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\bin\Debug\net8.0\Cenit.Admon.Domain.pdb
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\Cenit.Admon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\Cenit.Admon.Domain.AssemblyInfoInputs.cache
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\Cenit.Admon.Domain.AssemblyInfo.cs
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\Cenit.Admon.Domain.csproj.CoreCompileInputs.cache
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\Cenit.Admon.Domain.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\refint\Cenit.Admon.Domain.dll
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\Cenit.Admon.Domain.pdb
+C:\Arquitectura\Cenit\Admon\Cenit.Admon.Domain\obj\Debug\net8.0\ref\Cenit.Admon.Domain.dll
