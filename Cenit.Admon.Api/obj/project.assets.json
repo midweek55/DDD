@@ -632,11 +632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
+      "projectUniqueName": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
       "projectName": "Cenit.Admon.Api",
-      "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
+      "projectPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
       "packagesPath": "/home/midweek/.nuget/packages/",
-      "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/obj/",
+      "outputPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/midweek/.nuget/NuGet/NuGet.Config"
@@ -651,8 +651,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj": {
-              "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj"
+            "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj": {
+              "projectPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Application/Cenit.Admon.Application.csproj"
             }
           }
         }

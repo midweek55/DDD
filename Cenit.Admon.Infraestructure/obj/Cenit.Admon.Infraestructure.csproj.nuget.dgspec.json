@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj": {}
+    "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj": {}
   },
   "projects": {
-    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
+    "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
+        "projectUniqueName": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
         "projectName": "Cenit.Admon.Domain",
-        "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
+        "projectPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
         "packagesPath": "/home/midweek/.nuget/packages/",
-        "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/obj/",
+        "outputPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/midweek/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj": {
+    "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
+        "projectUniqueName": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
         "projectName": "Cenit.Admon.Infraestructure",
-        "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
+        "projectPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Infraestructure/Cenit.Admon.Infraestructure.csproj",
         "packagesPath": "/home/midweek/.nuget/packages/",
-        "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Infraestructure/obj/",
+        "outputPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Infraestructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/midweek/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
-                "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj"
+              "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj": {
+                "projectPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj"
               }
             }
           }

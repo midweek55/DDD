@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z++fmF2bIJPuA6SM8HzV9k3Gg6vO12hahGijKfCBrPyC6yqgMGW0H+RSM7Tlhya9JrcEOBD/x3usTxZguvzjxQ==",
+  "dgSpecHash": "0lu7kHRG7ndMuzgF9udPL1B36FpejKZzY1GVlj7iGtxqD9WsNa6COaYPFvDCHtXR8t77TJy5olzajNxDdKkS1w==",
   "success": true,
-  "projectFilePath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
+  "projectFilePath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Api/Cenit.Admon.Api.csproj",
   "expectedPackageFiles": [
     "/home/midweek/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/home/midweek/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",

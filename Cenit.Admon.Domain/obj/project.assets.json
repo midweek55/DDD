@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
+      "projectUniqueName": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
       "projectName": "Cenit.Admon.Domain",
-      "projectPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
+      "projectPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/Cenit.Admon.Domain.csproj",
       "packagesPath": "/home/midweek/.nuget/packages/",
-      "outputPath": "/home/midweek/Escritorio/Cenit/GICADMONBACK/Cenit.Admon.Domain/obj/",
+      "outputPath": "/home/midweek/Escritorio/togit/GICADMONBACK/Cenit.Admon.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/midweek/.nuget/NuGet/NuGet.Config"
